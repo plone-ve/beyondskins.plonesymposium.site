@@ -3,3 +3,10 @@ Credits
 
 Development of this package was sponsored by `Simples Consultoria
 <http://www.simplesconsultoria.com.br/>`_.
+
+* Andre Nogueira (agnogueira at gmail dot com) - Conception 
+  and prototype.
+
+* Érico Andrei (ericof at gmail dot com)
+
+* Leonardo Caballero (leonardocaballero at gmail dot com)
