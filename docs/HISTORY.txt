@@ -2,7 +2,39 @@ Changelog
 ---------
 
 1.0(unreleased)
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^
+
+* Added a simple Diazo theme package (Zip file) [macagua]
+
+* Added improvements about README file [macagua]]
+
+* Updated the installation guide file [macagua]
+
+* Added GenericSetup profiles for this package [macagua]
+
+* Added more strings classifiers items for this package [macagua]
+
+* Added buildout extend configuration for test-plone-4.3.x [macagua]
+
+* Updated URL extend for test-plone-4.2.x.cfg file [macagua]
+
+* Updated diazo theme manifest file and adding preview file [macagua]
+
+* Added HTML5 validation for HTML file [macagua]
+
+* Ajustes de CSS e posicionamento de elementos [Érico Andrei]
+
+* remove img border [Andre Nogueira]
+
+* Add top banner [Andre Nogueira]
+
+* CSS fix [Andre Nogueira]
+
+* fix footer and columns size [Andre Nogueira]
+
+* Update documentation [Érico Andrei]
+
+* Initial import [Érico Andrei]
 
 * Initial release.
 
