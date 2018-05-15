@@ -1,6 +1,6 @@
 /*****************************   
 Plone Symposium South America
-based in beyondskins.Responsive - Diazo responsive theme for Plone
+based in beyondskins.responsive - Diazo responsive theme for Plone
 Simples Consultoria - www.simplesconsultoria.com.br
 ******************************/
 /* reset */
@@ -43,7 +43,7 @@ div.overlay-iframe, div.overlay-ajax {left:11%!Important; width:75%;}
 .portlet img, #content img {max-width:100%;}
 .section-home .documentFirstHeading {display: none;}
 
-/*header*/
+/* header */
 #header {background-size:100% auto;	position:relative;}
 #logo {padding: 0 0 240px 0;float: left; width: 50%;}
 #logo img {max-width:100%;}
@@ -63,7 +63,7 @@ div.overlay-iframe, div.overlay-ajax {left:11%!Important; width:75%;}
 #nav a {	padding: 1.1em 2em 1em 2em; text-decoration: none;}
 #searchbt, #nav #seletor {display:none;}
 
-/* Colunas */
+/* Columns */
 #portal-column-two {margin-left: -30%;}
 #portal-column-two {width: 30%;}
 #portal-column-content {width: 60%;}
