@@ -26,7 +26,7 @@ Screenshots
 
 Layout of the site when viewed in a computer resolution:
 
-.. image:: https://github.com/plonegovbr/beyondskins.plonesymposium.site/raw/master/beyondskins/plonesymposium/site/themes/beyondskins.plonesymposium.site/preview.png
+.. image:: https://github.com/plonegovbr/beyondskins.plonesymposium.site/raw/master/src/beyondskins/plonesymposium/site/themes/beyondskins.plonesymposium.site/preview.png
 
 
 Features
