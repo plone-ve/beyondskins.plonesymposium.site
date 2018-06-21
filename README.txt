@@ -80,6 +80,21 @@ License
 
 The project is licensed under the GPLv2.
 
+
+Credits
+-------
+
+- Andre Nogueira (agnogueira at gmail dot com).
+
+
+- Érico Andrei (ericof at gmail dot com).
+
+
+Amazing contributions
+---------------------
+
+- Leonardo J. Caballero G. aka macagua (leonardocaballero at gmail dot com).
+
 .. _`Simples Consultoria`: http://www.simplesconsultoria.com.br/
 .. _`plone.app.theming`: https://pypi.org/project/plone.app.theming/
 .. _`plone.app.themingplugins`: https://pypi.org/project/plone.app.themingplugins/
